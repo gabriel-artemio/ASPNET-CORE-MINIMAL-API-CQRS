@@ -1,1 +1,1 @@
-# ASP.NET Core -  Minimal APIs com CQRS
+# ASP.NET Core APIs: CQRS e Mediator
