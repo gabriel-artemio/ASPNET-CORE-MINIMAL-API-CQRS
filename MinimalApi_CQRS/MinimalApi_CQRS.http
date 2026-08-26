@@ -1,0 +1,6 @@
+@MinimalApi_CQRS_HostAddress = http://localhost:5002
+
+GET {{MinimalApi_CQRS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
