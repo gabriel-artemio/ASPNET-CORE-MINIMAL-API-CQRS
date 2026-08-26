@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinimalApi_CQRS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2028f062ad72457b9bce72f7fa4c2d916879320")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f0423def804fe0b0492896a10a7be74acbcfb14")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinimalApi_CQRS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinimalApi_CQRS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
